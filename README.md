@@ -10,8 +10,8 @@ What is kali?
 ----------------
 
 kali is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
+ - 2 minute block targets
+ - subsidy halves in 10k blocks (~3.5 days)
  - ~84 million total coins
 
 The rest is the same as Bitcoin.
