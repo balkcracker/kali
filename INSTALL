@@ -1,0 +1,9 @@
+Building kali
+
+See doc/readme-qt.rst for instructions on building kali-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of kali.
+
+See doc/build-*.txt for instructions on building kalid,
+the intended-for-services, no-graphical-interface, reference
+implementation of kali.
